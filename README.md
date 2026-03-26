@@ -1,8 +1,8 @@
 # ClinicalCoPilot
 
-A full-stack Clinical Documentation AI web application powered by **Autonomize AI** and **H2O GPTe**.
+A full-stack Clinical Documentation AI web application
 
-ClinicalCoPilot ingests clinical notes and audio recordings, then uses H2O GPTe's RAG pipeline to automatically extract structured clinical data, generate SOAP notes, produce ICD-10/CPT billing codes, flag patient risks, and output FHIR R4-compliant JSON bundles — all within an interactive, editable UI.
+ClinicalCoPilot ingests clinical notes and audio recordings, then usesa RAG pipeline to automatically extract structured clinical data, generate SOAP notes, produce ICD-10/CPT billing codes, flag patient risks, and output FHIR R4-compliant JSON bundles — all within an interactive, editable UI.
 
 ---
 
